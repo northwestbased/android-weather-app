@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="Use Fahrenheit"
+        android:defaultValue="false"
+        android:summary="Display temperature using Fahrenheit. Otherwise, Celsius will be used."
+        android:key="temperatureScale" />
+</PreferenceScreen>
