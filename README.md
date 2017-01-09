@@ -2,5 +2,4 @@
 basic android weather app
 
 Screenshot:
-[Image of application]
-(https://raw.githubusercontent.com/northwestbased/android-weather-app/master/screenshot%201.png)
+![Image of application](https://raw.githubusercontent.com/northwestbased/android-weather-app/master/screenshot%201.png)
